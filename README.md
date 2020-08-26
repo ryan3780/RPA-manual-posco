@@ -1,5 +1,5 @@
 # posco-manual
-<img src="https://user-images.githubusercontent.com/45477679/91306156-22786a80-e7e7-11ea-8f98-91dbe7bd90d1.gif" />  
+<img src="https://user-images.githubusercontent.com/45477679/91306923-396b8c80-e7e8-11ea-8956-851f4ecd142d.gif" />  
 
 ### 소유권이 없으므로 이미지 파일로 대체합니다.  
 
