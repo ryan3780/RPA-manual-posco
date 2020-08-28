@@ -11,4 +11,4 @@
 
 ### node.js로 JSON파일을 만들어서 사용했습니다.
 
-#### 웹팩으로 .js, .css, html 완료 
+### 웹팩으로 .js, .css, html 빌드 완료 
